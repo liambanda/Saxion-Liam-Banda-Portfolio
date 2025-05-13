@@ -5,4 +5,4 @@ animations
 conceptual art
 and a video explanation.
 https://github.com/user-attachments/assets/1a701e10-6566-4cc1-a5be-018007fcbb5d
-https://github.com/user-attachments/assets/19001081-9b78-44d2-9e20-a33e6af0927
+https://github.com/liambanda/Saxion-Liam-Banda-Portfolio/issues/2
